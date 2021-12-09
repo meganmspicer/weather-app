@@ -1,0 +1,26 @@
+body {
+  font-size: 25px;
+  font-family: "Rubik", sans-serif !important;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Rubik", sans-serif;
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+}
+p {
+  text-align: center;
+  font-family: "Rubik", sans-serif;
+}
+.highlight {
+  font-size: 100px;
+}
+.icon {
+  text-align: center;
+}
